@@ -16,6 +16,5 @@
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriPereiraDev&hide_progress=true)
 
 ![YuriPereiraDev GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriPereiraDev&show_icons=true)
