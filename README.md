@@ -17,4 +17,4 @@
 <br>
 
 
-![YuriPereiraDev GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriPereiraDev&show_icons=true)
+![YuriPereiraDev GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriPereiraDev&theme=radical&show_icons=true)
